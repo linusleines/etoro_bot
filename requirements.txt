@@ -1,0 +1,6 @@
+anthropic
+yfinance
+pandas
+lxml
+requests
+python-dotenv

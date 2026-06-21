@@ -1,0 +1,11 @@
+# never commit
+.env
+
+# environment
+.venv/
+__pycache__/
+*.pyc
+
+# generated artifacts
+run_cache.json
+target_portfolio.json
