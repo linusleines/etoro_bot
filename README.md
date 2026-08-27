@@ -1,3 +1,7 @@
+A small side project I've been tinkering with.
+I let an AI agent run a little portfolio on full autopilot:
+it does the monthly research, builds the target allocation, and executes the trades itself.
+
 # AI Portfolio Bot
 
 A self-hosted bot that rebuilds the Lopez-Lira "AI portfolio" methodology with
